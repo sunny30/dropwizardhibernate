@@ -1,0 +1,5 @@
+io/com/dropwizard/entity/GuestEntity.class
+io/com/dropwizard/request/CreateGuestRequest.class
+io/com/dropwizard/entity/dao/GuestEntityDAO.class
+io/com/dropwizard/resource/SampleResource.class
+io/com/dropwizard/App$1.class
